@@ -49,3 +49,9 @@
    单击“code/ design”进行“代码/图形界面”的切换
 3.控件添加事件的方法：
   控件上- 右键 -add event handler - (mouse - MousePressed)
+
+
+PS1：
+  该实例是针对连接SQL Sever；若有需要连接MySql，里面有测试连接Mysql文件，需要用到的工具在云盘上，有需要自取。
+  百度网盘连接：https://pan.baidu.com/s/19NDOgEkhTfYYk5ZfvD4SXg?pwd=h77n 提取码: h77n
+  阿里云盘：https://www.aliyundrive.com/s/WNUbWL6kUWG
